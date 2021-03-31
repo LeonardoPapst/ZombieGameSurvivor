@@ -7840,27 +7840,27 @@ MonoBehaviour:
   - Name: Wave 1/5
     Enemy: {fileID: 4941635705825534, guid: 35861510587b7489780fe86970823679, type: 3}
     EnemySpeed: 5
-    Count: 1
+    Count: 15
     Rate: 2
   - Name: Wave 2/5
     Enemy: {fileID: 4941635705825534, guid: 35861510587b7489780fe86970823679, type: 3}
     EnemySpeed: 7
-    Count: 1
+    Count: 15
     Rate: 2
   - Name: Wave 3/5
     Enemy: {fileID: 4941635705825534, guid: 35861510587b7489780fe86970823679, type: 3}
     EnemySpeed: 9
-    Count: 1
+    Count: 20
     Rate: 1
   - Name: Wave 4/5
     Enemy: {fileID: 4941635705825534, guid: 35861510587b7489780fe86970823679, type: 3}
     EnemySpeed: 12
-    Count: 1
+    Count: 20
     Rate: 1
   - Name: Wave 5/5
     Enemy: {fileID: 4941635705825534, guid: 35861510587b7489780fe86970823679, type: 3}
     EnemySpeed: 15
-    Count: 1
+    Count: 25
     Rate: 1
   spawnPoints:
   - {fileID: 569868291}
