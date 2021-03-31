@@ -5,10 +5,10 @@ The assets and the first commands was made with Alura's course help.
 # Link to play (web browser-PC)
 https://leopapst.itch.io/zombiegamesurvivor
 
-#Objective
+# Objective
 Survive the zombie waves.
 
-#Controls
+# Controls
 WASD: Move
 Mouse Left button/CTRL: Shoot
 You can't shoot while walking.
